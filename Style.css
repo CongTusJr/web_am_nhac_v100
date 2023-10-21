@@ -328,7 +328,7 @@ header .master_play .vol input{
     z-index: 999999999999999999999999999999999;
     opacity: 0;
 }
-header .master_play .vol vol_bar{
+header .master_play .vol .vol_bar{
     position: absolute;
     background: #36e3ec;
     width: 100%;
