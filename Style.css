@@ -240,6 +240,8 @@ header .master_play .icon .shuffle{
     align-items: center;
 }
 header .master_play .icon #download_music {
+    text-decoration: none;
+    color: #fff;
     font-size: 20px;
     margin-left: 10px;
 }
